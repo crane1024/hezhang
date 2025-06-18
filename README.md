@@ -1,2 +1,2 @@
 # My Personal Website
-https://hezhang.github.io
+https://crane1024.github.io/hezhang/
